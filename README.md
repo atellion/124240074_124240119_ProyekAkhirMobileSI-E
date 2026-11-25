@@ -57,27 +57,5 @@ Dibuat untuk memenuhi spesifikasi **Praktikum Pemrograman Aplikasi Mobile (Semes
 - **Desain UI**: Monochromatic Minimalist Soft-Card System
 - **Tipografi**: Plus Jakarta Sans via [google_fonts](https://pub.dev/packages/google_fonts)
 
----
-
-## 🚀 Cara Menjalankan Proyek
-
-1. **Clone repositori**:
-   ```bash
-   git clone https://github.com/justin-rar/kelarin.git
-   cd kelarin
-   ```
-
-2. **Pasang dependensi**:
-   ```bash
-   flutter pub get
-   ```
-
-3. **Jalankan emulator / perangkat mobile**:
-   ```bash
-   flutter run
-   ```
-
----
-
 ## 📄 Lisensi & Kredit
 Dikembangkan untuk keperluan akademik Mata Kuliah **Praktikum Pemrograman Aplikasi Mobile (PAM)**, Jurusan Sistem Informasi / Informatika, UPN "Veteran" Yogyakarta.
